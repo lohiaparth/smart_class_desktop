@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-df15f627d131a08180ec.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "smart_class_desktop",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "smart_class_desktop::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-smart_class_desktop-Debug-a68c4c681808a30c1882.json",
+					"name" : "smart_class_desktop",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "smart_class_desktop_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-smart_class_desktop_autogen-Debug-e1b99a738600d21a9065.json",
+					"name" : "smart_class_desktop_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "smart_class_desktop_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-smart_class_desktop_autogen_timestamp_deps-Debug-40a2a6607e9e84218e4b.json",
+					"name" : "smart_class_desktop_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/parthlohia/smart_class_desktop/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug",
+		"source" : "/Users/parthlohia/smart_class_desktop"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
